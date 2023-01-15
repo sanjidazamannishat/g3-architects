@@ -78,6 +78,7 @@ nav li {
     color: #727272;
 }
 
+          /* Features Style */
 .section-2 {
     display: flex;
     align-items: center;
@@ -116,7 +117,7 @@ nav li {
 .features-title-details {
     color: #727272;
 }
-
+   /* enjoyable-features style */
 .enjoyable-features {
     display: flex;
     margin-bottom: 110px;
@@ -155,14 +156,11 @@ nav li {
 
 .various-features-title-details {
     color: #727272;
-
 }
-
+  /* Experience Div style */
 #extra-div {
     color: white;
     background: #FF900E;
-    /* width: 320px;
-    height: 180px; */
     border-radius: 8px;
     text-align: center;
     position: relative;
@@ -179,6 +177,7 @@ nav li {
     margin-top: -20px;
 }
 
+          /* Some Facts Style */
 .section-3 {
     padding: 0px 85px;
     margin-bottom: 100px;
@@ -214,6 +213,8 @@ nav li {
 .list:hover {
     transform: scale(50%);
 }
+
+     /* Clients Review style */
 .Clients-review{
     padding: 0px 85px;
     margin-bottom: 100px;
@@ -223,6 +224,7 @@ nav li {
     justify-content: space-around;
     text-align: center;
 }
+       /* Sponsor section Style */
 .section-4 {
     padding: 0px 85px;
     margin-bottom: 100px;
@@ -242,7 +244,7 @@ nav li {
 .sponsor-icon img {
     filter: grayscale(100%);
 }
-
+       /* Footer section Style */
 footer {
     background: #FFF4E7;
     border-radius: 8px;
